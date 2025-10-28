@@ -1,0 +1,7 @@
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\BackendLoginApplication.java
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\controller\AuthController.java
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\dto\LoginRequest.java
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\dto\LoginResponse.java
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\model\Usuario.java
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\repository\UsuarioRepository.java
+C:\Dropbox\SENAC-PI\projeto_backend_tads040\src\main\java\pe\senac\br\backend\service\AuthService.java
