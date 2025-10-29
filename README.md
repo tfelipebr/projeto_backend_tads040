@@ -32,9 +32,9 @@ cd backend-login
 
 # crie o banco e a tabela (ou ajuste o nome no application.properties)
 # exemplo:
-# CREATE DATABASE backend_login;
-# USE backend_login;
-# ... veja o script em backend-login/README.md
+# CREATE DATABASE projeto_login;
+# USE projeto_login;
+# ... veja o script em projeto-login/README.md
 
 # configure as credenciais em src/main/resources/application.properties
 
